@@ -1,3 +1,6 @@
 Hello, Git.
 
 meta1
+
+
+변동사항
